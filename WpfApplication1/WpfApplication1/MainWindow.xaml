@@ -10,5 +10,8 @@
         <Grid.RowDefinitions>
             <RowDefinition/>
         </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
     </Grid>
 </Window>
